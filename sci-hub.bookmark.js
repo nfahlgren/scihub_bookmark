@@ -1,1 +1,1 @@
-javascript:location.hostname += '.sci-hub.bz'
+javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.bz' + location.pathname + location.search
