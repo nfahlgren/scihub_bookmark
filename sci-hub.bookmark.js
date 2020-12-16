@@ -1,1 +1,1 @@
-javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.tw' + location.pathname + location.search
+javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.se' + location.pathname + location.search
